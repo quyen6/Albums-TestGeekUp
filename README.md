@@ -64,9 +64,9 @@ http://localhost:3000
 
 5. **Cấu trúc thư mục chính**
    src/
-   ├── components/ # Các trang Albums, Users
-   ├── assets/ # Tài nguyên như ảnh, icon, màu sắc, fonts...
-   ├── hook/ # Các custom hook (ví dụ: usePaginationParams)
-   ├── layout/ # Các layout dùng chung (ví dụ: DetailLayout, Aside)
-   ├── App.js # Cấu hình định tuyến và layout chính
-   ├── index.js # Điểm khởi tạo ứng dụng React
+   ├── components/         # Các trang Albums, Users
+   ├── assets/          # Tài nguyên như ảnh, icon, màu sắc, fonts...
+   ├── hook/          # Các custom hook (ví dụ: usePaginationParams)
+   ├── layout/       # Các layout dùng chung (ví dụ: DetailLayout, Aside)
+   ├── App.js       # Cấu hình định tuyến và layout chính
+   ├── index.j      s # Điểm khởi tạo ứng dụng React
